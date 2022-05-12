@@ -1,6 +1,11 @@
 # Foodcart
-Foodcart is food ordering website.<br>
-In these website you can order Food.<br>
-In the check menu you can put your booking code which you got while booking and check your order details and status of your order(booked,dispatched,delivered).<br>
-In admin panel you can check the ordered items and dispatch it in admin pannels dispatch menu.<br>
-In admin pannel after dispatch you can click on deleverd in admin panels delivery menu after the item is delivered.<br>
+•	Foodcart is a online food ordering website.<br>
+Live : <b>eskillsrihan.000webhostapp.com</b><br>
+•	There is a ordered menu by using booking code you can check your ordered grocery details and its status (Ordered/Dispatched/Delivered).<br>
+•	In admin ordered menu you can see orders and notify customer’s dispatch of orders after order is dispatched.<br>
+•	In admin dispatched menu you can see dispatched orders and notify customers delivered of orders after order is delivered.<br>
+•	In admin delivered menu you can see delivered orders.<br>
+•	Languages & technologies used (Html/Css/Bootstrap/Javascript/Php/Mysql).<br>
+<p>Copy and paste link in search bar to open project</p>
+<b>eskillsrihan.000webhostapp.com</b>
+
